@@ -1,4 +1,4 @@
-# CustomEngine
+# Custom C++ Engine
  * **Description:** Custom C++ engine with various included tools; using OpenGL for graphics, rapidJSON for serialization
  * *Made using C++, OpenGL, rapidJSON and IMGUI*
 
